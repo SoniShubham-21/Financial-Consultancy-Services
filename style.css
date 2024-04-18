@@ -1,0 +1,44 @@
+header{
+    height: 30px;
+    width: 100%;
+    background-color: rgba(162, 161, 161,0.6);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#a1{
+    display: flex;
+    color: black;
+    align-self: center;
+}
+#a2{
+    display: flex;
+}
+#language{
+    background-color: rgba(162, 161, 161,0.6);
+    color: black;
+    align-self: center;
+    height: 25px;
+    border: none;
+    margin-right: 50px;
+    
+}
+ #social{
+    font-size: large;
+    align-self: center;
+    margin-right: 25px;
+    
+ }
+#quote{
+    height: 30px;
+    background-color: rgb(109, 12, 194);
+    color: white;
+    align-self: flex-end;
+    
+}
+#quote:hover{
+    height: 30px;
+    background-color: rgba(109, 12, 194,0.7);
+    color: white;
+    
+}
