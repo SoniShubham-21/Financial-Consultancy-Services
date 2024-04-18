@@ -91,10 +91,13 @@ section{
     margin: auto;
     padding: 0px;
     list-style-type: none;
-    background-color: rgb(4, 4, 107);
+    background-color: rgb(6, 6, 105);
     overflow: hidden;
     display: flex;
     margin-bottom: -60px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0.4px 0.4px 1px rgb(198, 196, 196);
 }
 .navbar a{
     font-size: 20px;
@@ -122,25 +125,24 @@ section{
 }
 
 main{
-    height: 800px;
+    height: 700px;
     width: 100%;
     padding: 0px;
     margin: 0px;
-    opacity: 0.9;
-    background-image: url(background.jpg);
+    opacity: 1;
+    background-image: url(background.jpeg);
     background-size: cover;
 }
 h2{
     width: 675px;
     font-size: 60px;
-    color: rgb(2, 41, 96);
-    background-color: rgba(235, 203, 203, 0.5);
-    transform: translate(30px,200px);
+    color: white;
+    transform: translate(27px,220px);
 }
 #abtbtn{
     font-size: 15px;
     padding: 6px 25px;
-    transform: translate(70px, 150px);
+    transform: translate(70px, 170px);
 }
 #ousbtn{
     color: white;
@@ -148,5 +150,5 @@ h2{
     text-decoration: none;
     font-size: 15px;
     padding: 6px 25px;
-    transform: translate(70px, 150px);
+    transform: translate(70px, 170px);
 }
