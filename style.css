@@ -94,6 +94,7 @@ section{
     background-color: rgb(4, 4, 107);
     overflow: hidden;
     display: flex;
+    margin-bottom: -60px;
 }
 .navbar a{
     font-size: 20px;
@@ -117,5 +118,35 @@ section{
     opacity: 0.8;
     text-decoration: none;  
     padding: 16px;   
-    margin-left: 335px;
+    margin-left: 330px;
+}
+
+main{
+    height: 800px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    opacity: 0.9;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+h2{
+    width: 675px;
+    font-size: 60px;
+    color: rgb(2, 41, 96);
+    background-color: rgba(235, 203, 203, 0.5);
+    transform: translate(30px,200px);
+}
+#abtbtn{
+    font-size: 15px;
+    padding: 6px 25px;
+    transform: translate(70px, 150px);
+}
+#ousbtn{
+    color: white;
+    background-color:  rgb(109, 12, 194);
+    text-decoration: none;
+    font-size: 15px;
+    padding: 6px 25px;
+    transform: translate(70px, 150px);
 }
