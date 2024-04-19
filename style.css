@@ -472,3 +472,11 @@ h1{
     margin-top: -18px;
 }
 
+                /* Contact Us Form */
+#contactform{
+    height: 350px;
+    width: 100%;
+    background-image: url(bgimg3.jpg);
+    background-size: cover;
+    
+}
