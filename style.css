@@ -105,7 +105,7 @@ section{
     box-shadow: 0px 0px 1px rgb(198, 196, 196);
 }
 .navbar a{
-    font-size: 18px;
+    font-size: 17px;
     color: white;
     text-decoration: none;  
     padding: 15px;   
@@ -115,7 +115,7 @@ section{
     float: left;
 }
 .navbar a:hover{
-    font-size: 18px;
+    font-size: 17px;
     color: rgba(255, 255, 255, 0.908);
     background-color: rgb(109, 12, 194) ;
     text-decoration: none;  
@@ -126,7 +126,7 @@ section{
     opacity: 0.8;
     text-decoration: none;  
     padding: 16px;   
-    margin-left: 330px;
+    margin-left: 320px;
 }
 
                  /* Main Section*/
