@@ -517,9 +517,164 @@ h1{
     background-color: rgb(109, 12, 194);
     color: white;
     font-size: 15px;
+    opacity: 0.8;
+}
+#form button:hover{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(109, 12, 194);
+    color: white;
+    font-size: 15px;
+    opacity: 1;
 }
 #form{
     text-align: center;
     padding-top: 30px;
 }
+
+                /*logo Section*/
+#partners_logo{
+    height: 120px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 25px;
+    justify-content: space-evenly;
+}
+#partners_logo img{
+    height: 80px;
+    width: 150px;
+}
+
+                /*footer*/
+footer{
+    height: 500px;
+    width: 100%;
+    background-color:rgb(17, 17, 98);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+}
+#footerlogo_sec{
+    height: 350px;
+    width: 28%;
+    margin-left: 45px;
+}
+#footerlogo_sec p{
+    padding: 10px;
+    margin-top: -15px;
+    margin-bottom: 0px;
+    color: white;
+    opacity: 0.7;
+    text-align: justify;
+}
+#footerlogo_sec i{
+    margin-left: 5px;
+    transform: translate(3px,10px);
+    color: rgb(109, 12, 194);
+}
+#address{
+    margin-left: 20px;
+    margin-top: -20px;
+    color: white;
+    opacity: 0.7;
+}
+.foo{
+    color: white;
+    opacity: 0.7;
+    margin-left: 20px;
+
+}
+#ourlinks{
+    height: 350px;
+    width: 20%;
+}
+#ourlinks h3{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#list{
+    margin-top: -10px;
+    color: white;
+    opacity: 0.7;
+    display: grid;
+    grid-template-columns: 150px 150px;
+    grid-column: 1/span2;
+}
+#list a{
+    color: white;
+    text-decoration: none; 
+    line-height: 3;
+    opacity: 0.7;
+}
+
+#recent{
+    height: 350px;
+    width: 20%;
+}
+#recent h3{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#recent i{
+    color:rgb(109, 12, 194);
+    transform: translate(120px,20px);
+    height: 25px;
+    width: 25px;
+}
+#recent p{
+    font-size: 16px;
+    transform: translate(30px,22px);
+    color: white;
+    opacity: 0.7;
+}
+#newsletter{
+    height: 350px;
+    width: 20%;
+    margin-right: 60px;
+}
+#newsletter h3{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#newsletter p{
+    font-size: 16px;
+    transform: translate(18px,12px);
+    color: white;
+    opacity: 0.7;
+}
+#newsletter input{
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+    opacity: 0.3;
+    transform: translate(18px,12px);
+}
+#newsletter button{
+    height: 45px;
+    width: 205px;
+    transform: translate(18px,12px);
+    color: white;
+    background-color:rgb(109, 12, 194);
+    text-decoration: none;
+    font-size: 15px;
+}
+#newsletter button:hover{
+    height: 45px;
+    width: 205px;
+    transform: translate(18px,12px);
+    color: white;
+    background-color:rgb(109, 12, 194);
+    text-decoration: none;
+    font-size: 15px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+
 
