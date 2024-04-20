@@ -493,13 +493,33 @@ h1{
     color: white;
     text-align: center;
     font-size: 30px;
-    padding-top: 30px;  
+    padding-top: 50px;  
     opacity: 0.8;
 }
 #contactform p{
     color: white;
     text-align: center;
-    margin-top:-18px;
+    margin-top:-10px;
     opacity: 0.8;
     line-height: 20px;
 }
+#help1{
+    height: 40px;
+    width: 200px;
+}
+#form input{
+    height: 35px;
+    width: 200px;
+}
+#form button{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(109, 12, 194);
+    color: white;
+    font-size: 15px;
+}
+#form{
+    text-align: center;
+    padding-top: 30px;
+}
+
