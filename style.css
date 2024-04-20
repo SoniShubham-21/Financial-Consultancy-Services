@@ -137,7 +137,7 @@ main{
     padding: 0px;
     margin: 0px;
     opacity: 1;
-    background-image: url(image1.jpeg);
+    background-image: url(Img/image1.jpeg);
     background-size: cover;
 }
 h2{
@@ -266,7 +266,7 @@ h1{
     display: flex;
     flex-wrap: wrap;
     color: white;
-    background-image: url(hover3.jpeg);
+    background-image: url(Img/hover3.jpeg);
     transform: scale(1.1);
     background-size: cover;
     padding: 0px 20px;
@@ -282,7 +282,7 @@ h1{
     flex-wrap: wrap;
     padding: 0px 20px; 
     color: white;
-    background-image: url(hover3.jpeg);
+    background-image: url(Img/hover3.jpeg);
     background-size: cover;
     padding: 0px 20px;
 }
@@ -297,7 +297,7 @@ h1{
     flex-wrap: wrap;
     padding: 0px 20px; 
     color: white;
-    background-image: url(hover3.jpeg);
+    background-image: url(Img/hover3.jpeg);
     background-size: cover;
     padding: 0px 20px;
 }
@@ -321,7 +321,7 @@ h1{
 #section3{
     height: 400px;
     width: 100%;
-    background-image: url(bgimg.png);
+    background-image: url(Img/bgimg.png);
     background-size: cover;
     opacity: 0.9;
     display: flex;
@@ -478,7 +478,7 @@ h1{
 #contactform{
     height: 350px;
     width: 100%;
-    background-image: url(bgimg2.jpg);
+    background-image: url(Img/bgimg2.jpg);
     background-size: cover;
     opacity: 0.9;
     margin: 0px;
