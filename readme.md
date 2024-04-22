@@ -45,7 +45,7 @@ I'm excited to keep working on this project and learn more about front-end devel
 #Screenshots :
 
 ![Screenshot 2024-04-22 143111](https://github.com/SoniShubham-21/Project-1/assets/149899320/af3654d4-8802-4c7b-83ea-fe379c55225f)
-![Screenshot 2024-04-22 143123](https://github.com/SoniShubham-21/Project-1/assets/149899320/40899e06-0e87-44cb-ab86-0dc70a2eb0c8)
+![Screenshot 2024-04-22 150516](https://github.com/SoniShubham-21/Project-1/assets/149899320/ac6bb023-eae3-4ce0-bcd4-aa24f3ca6440)
 ![Screenshot 2024-04-22 150030](https://github.com/SoniShubham-21/Project-1/assets/149899320/9ac17a1b-7d45-4f69-b069-b8c472a3b331)
 ![Screenshot 2024-04-22 143150](https://github.com/SoniShubham-21/Project-1/assets/149899320/b89383f5-7cf0-4c7e-88ee-e85aec9bc0bc)
 ![Screenshot 2024-04-22 143200](https://github.com/SoniShubham-21/Project-1/assets/149899320/562986bc-953e-4fde-a468-9e3831775574)
